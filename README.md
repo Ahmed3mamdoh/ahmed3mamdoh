@@ -1,6 +1,5 @@
 # 💫 About Me:
  <br><h3> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there! </h3>
- <br>
  ![](https://komarev.com/ghpvc/?username=ahmed3mamdoh&style=for-the-badge) [![GitHub followers](https://img.shields.io/github/followers/ahmed3mamdoh?label=Github%20Followers&style=for-the-badge)](https://github.com/ahmed3mamdoh) [![Linkedin](https://img.shields.io/badge/-ahmed3mamdoh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed3mamdoh/)](https://www.linkedin.com/in/ahmed3mamdoh/)
 
  <h1>I´m Ahmed Mamdoh 😄</h1><br><h3>👀 I’m interested in computer science</h3><br><h3>🌱 backend development with Python ( Django framework )</h3> <h3>  </h3>
