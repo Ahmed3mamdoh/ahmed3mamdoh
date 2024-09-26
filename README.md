@@ -9,7 +9,7 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,django,laravel,php,html,css,js,rest,mysql)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,django,laravel,php,html,css,js,linkedin,mysql,postman,anaconda)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025682203532)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed3mamdoh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmmdmamdoh/) 
