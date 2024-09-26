@@ -7,8 +7,7 @@
 
 ![](https://www.aceinfoway.com/blog/wp-content/uploads/2022/06/laravel-8-to-9.gif)
 
-
-
+# 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,django,laravel,php,html,css,js,linkedin,mysql,postman,anaconda)
 
 ## 🌐 Socials:
